@@ -2,3 +2,4 @@ baseURL = 'https://aryfi.com'
 languageCode = 'en-us'
 title = 'AryFi'
 theme = "ananke"
+HUGO_VERSION = "0.93.3"

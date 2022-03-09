@@ -1,0 +1,4 @@
+baseURL = 'https://aryfi.com'
+languageCode = 'en-us'
+title = 'AryFi'
+theme = "ananke"
